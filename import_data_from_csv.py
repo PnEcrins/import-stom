@@ -64,7 +64,6 @@ def parse_site(line):
     if "Vallon valsenestre" in line["NOM SITE"]:
         line["NOM SITE"] = "Valsenestre"
     base_site_name = line["NOM SITE"] + "-" + line["NPOINT"]
-    print(base_site_name)
     site = TBaseSites.query.filter_by(base_site_name=base_site_name).one_or_none()
     return site
 
@@ -75,7 +74,6 @@ def parse_observers(line):
         if line[key] != "":
             if " " in line[key]:
                 name = line[key].split(" ")
-                print(name)
                 if len(name[1]) == 1:
                     obs = User.query.filter_by(nom_role=unidecode(name[0])).one()
                 else:
@@ -234,7 +232,6 @@ def parse_taxon(line):
             .filter(Taxref.nom_vern == line["ESPECE"])
             .first()
         )
-        print(line["ESPECE"])
         return tax.cd_nom
     else:
         return -1
@@ -516,7 +513,6 @@ def import_data(file_path, error_file_path):
         for line in data:
             skip_visite = False
             skip_obs = False
-            print("line ", n)
             site = parse_site(line)
             date = parse_date(line)
             observers = parse_observers(line)
@@ -582,131 +578,6 @@ def write_errors_file(file_name, error_dict, keys):
                     for k in keys:
                         tw[k] = e[1][k]
                     dw.writerow(tw)
-
-
-def parse_visit_data(file_name):
-    data = get_data(file_name)
-    for line in data:
-        site = parse_site(line)
-        date = parse_date(line)
-        if site is None:
-            print(
-                "ATTENTION: Site ",
-                line["NOM SITE"] + "-" + line["NPOINT"],
-                "non trouvé dans la BDD.",
-            )
-        else:
-            visit = (
-                TMonitoringVisits.query.filter_by(visit_date_min=date)
-                .filter_by(id_base_site=site.id_base_site)
-                .one_or_none()
-            )
-            if visit is None:
-                print(
-                    "ATTENTION: Pas de visite trouvée pour le site ",
-                    site.base_site_name,
-                    " à la date ",
-                    date,
-                )
-            else:
-                data = visit.data
-                if line["COMMENTAIRES"] is not None:
-                    visit.comments = line["COMMENTAIRES"]
-                for col in [
-                    "HABITAT PRINCIPAL",
-                    "HABITAT SECONDAIRE1",
-                    "HABITAT SECONDAIRE2",
-                    "ACTIVITE AGRICOLE",
-                    "SOL NU/ROCHERS  sp dom",
-                    "HERBACEE  sp dom",
-                    "ARBRISSEAU   sp dom",
-                    "ARBUSTE   sp dom",
-                    "ARBRES   sp dom",
-                ]:
-                    val = line[col]
-                    if val == "":
-                        val = None
-                    data[col] = val
-                for elt in [
-                    "paturage",
-                    "herb",
-                    "roche",
-                    "sol_nu",
-                    "arb_inf_30cm",
-                    "arb_inf_1m",
-                    "arb_1_4m",
-                    "arb_sup_4m",
-                    "elem_paysager",
-                ]:
-                    if data[elt] is None:
-                        if elt == "elem_paysager":
-                            data["elem_paysager"] = []
-                            tab = [
-                                {"value": "Câblage", "key": "Câblage"},
-                                {"value": "Point d'eau", "key": "Point d'eau"},
-                                {"value": "Clôture", "key": "Clôture"},
-                                {
-                                    "value": "Groupe isolé d'arbres",
-                                    "key": "Groupe isolé d'arbres",
-                                },
-                                {"value": "Ecobuage", "key": "Ecobuage"},
-                                {"value": "Bâti", "key": "Bâti"},
-                                {"value": "Falaise", "key": "Falaise"},
-                                {"value": "Autres", "key": "Autres"},
-                            ]
-                            for pays in [
-                                "ELEMENT PAYSAGE 1",
-                                "ELEMENT PAYSAGE 2",
-                                "ELEMENT PAYSAGE 3",
-                            ]:
-                                if line[pays] == "":
-                                    line[pays] = None
-                                if line[pays] is not None:
-                                    data["elem_paysager"].append(
-                                        tab[int(line[pays][0])]
-                                    )
-                                    if len(line[pays]) > 1:
-                                        data["comment_paysage"] = line[pays][
-                                            2 : len(line[pays]) - 1
-                                        ]
-                            if data["elem_paysager"] == []:
-                                data["elem_paysager"] = None
-                        if elt == "sol_nu":
-                            if line["SOL NU/ROCHERS  % rec"] == "":
-                                data["elt"] = None
-                            else:
-                                data[elt] = int(line["SOL NU/ROCHERS  % rec"])
-                        if elt == "herb":
-                            if line["HERBACEE % rec"] == "":
-                                data["elt"] = None
-                            else:
-                                data[elt] = line["HERBACEE % rec"]
-                        if elt == "arb_inf_1m":
-                            if line["ARBRISSEAU  % rec"] == "":
-                                data[elt] = None
-                            else:
-                                data[elt] = int(line["ARBRISSEAU  % rec"])
-                        if elt == "arb_1_4m":
-                            if line["ARBRISSEAU  % rec"] == "":
-                                data[elt] = None
-                            else:
-                                data[elt] = int(line["ARBRISSEAU  % rec"])
-                        if elt == "arb_sup_4m":
-                            if line["ARBRES % rec"] == "":
-                                data[elt] = None
-                            else:
-                                data[elt] = int(line["ARBRES % rec"])
-                TMonitoringVisits.session.query(
-                    id_base_visit=visit.id_base_visit
-                ).update(data=data)
-                print(
-                    "Visite ",
-                    visit.id_base_visit,
-                    " @ site ",
-                    site.base_site_name,
-                    " mis à jour",
-                )
-        db.session.commit()
 
 
 if __name__ == "__main__":
