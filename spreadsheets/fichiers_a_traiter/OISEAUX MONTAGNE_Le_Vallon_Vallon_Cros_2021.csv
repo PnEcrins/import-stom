@@ -1,0 +1,134 @@
+ZONE,ID ZONE,SECTEUR,NOM SITE,ID SITE,NPOINT,IDUNIQUE,OBSERVATEUR 1,OBSERVATEUR 2,DATE,HEURE DEBUT,MINUTES DEPUIS MINUIT,COUV NUAGE,PLUIE,VENT,VISI,DENEIGMT,ESPECE,NB05,NB510,NB1015,MAX 10,NB100,RQ,X,Y,ALT,RASTALT,AGRI,IR,IIR1,IIR2,% SOL NU,% ROCH,% HERB,%ARBRISSEAU,%ARBUSTE,%ARBRES,% CROTTES,INFO SUP PATURAGE 
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,1,,Warluzelle,,02/06/2017,6h35,,1,1,1,3,100,Accenteur alpin,0,1,NA,1,0,,"44,67588°","6,39741°",2231,,2,1,4,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,1,,Warluzelle,,02/06/2017,6h35,,1,1,1,3,100,Pipit spioncelle,3,2,NA,3,0,,"44,67588°","6,39741°",2231,,2,1,4,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,1,,Warluzelle,,02/06/2017,6h35,,1,1,1,3,100,Traquet motteux,1,1,NA,1,0,,"44,67588°","6,39741°",2231,,2,1,4,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,2,,Warluzelle,,02/06/2017,6h35,,1,1,1,3,100,Alouette des champs,1,0,NA,1,0,,"44,66753°","6,39975°",2262,,2,1,0,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,2,,Warluzelle,,02/06/2017,6h35,,1,1,1,3,100,Pipit spioncelle,2,2,NA,2,0,,"44,66753°","6,39975°",2262,,2,1,0,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,2,,Warluzelle,,02/06/2017,7h00,,1,1,1,3,100,Rouge-queue noir,0,1,NA,1,0,,"44,66753°","6,39975°",2262,,2,1,0,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,2,,Warluzelle,,02/06/2017,7h00,,1,1,1,3,100,Traquet motteux,1,1,NA,1,0,,"44,66753°","6,39975°",2262,,2,1,0,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,3,,Warluzelle,,02/06/2017,7h20,,1,1,1,3,80,Alouette des champs,0,2,NA,2,0,,"44,67852°","6,40298°",2311,,2,1,4,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,3,,Warluzelle,,02/06/2017,7h20,,1,1,1,3,80,Pipit spioncelle,2,1,NA,2,0,,"44,67852°","6,40298°",2311,,2,1,4,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,3,,Warluzelle,,02/06/2017,7h20,,1,1,1,3,80,Traquet motteux,1,1,NA,1,0,,"44,67852°","6,40298°",2311,,2,1,4,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,4,,Warluzelle,,02/06/2017,7h37,,1,1,1,3,90,Alouette des champs,0,1,NA,1,0,,"44,68049°","6,40687°",2365,,2,1,4,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,4,,Warluzelle,,02/06/2017,7h37,,1,1,1,3,90,Pipit spioncelle,1,2,NA,2,0,,"44,68049°","6,40687°",2365,,2,1,4,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,4,,Warluzelle,,02/06/2017,7h37,,1,1,1,3,90,Rouge-queue noir,2,2,NA,2,0,,"44,68049°","6,40687°",2365,,2,1,4,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,5,,Warluzelle,,02/06/2017,7h55,,1,1,1,3,100,Accenteur alpin,1,1,NA,1,0,,"44,68062°","6,40359°",2350,,2,1,2,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,5,,Warluzelle,,02/06/2017,7h55,,1,1,1,3,100,Merle a plastron,1,1,NA,1,0,,"44,68062°","6,40359°",2350,,2,1,2,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,5,,Warluzelle,,02/06/2017,7h55,,1,1,1,3,100,Pipit spioncelle,2,2,NA,2,0,,"44,68062°","6,40359°",2350,,2,1,2,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,5,,Warluzelle,,02/06/2017,7h55,,1,1,1,3,100,Rouge-queue noir,1,2,NA,2,0,,"44,68062°","6,40359°",2350,,2,1,2,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,6,,Warluzelle,,02/06/2017,8h35,,1,1,1,3,20,Pipit spioncelle,1,1,NA,1,0,,"44,68751°","6,39813°",2408,,2,1,3,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,6,,Warluzelle,,02/06/2017,8h35,,1,1,1,3,20,Traquet motteux,1,1,NA,1,0,,"44,68751°","6,39813°",2408,,2,1,3,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,6,,Warluzelle,,02/06/2017,8h35,,1,1,1,3,20,Coucou gris,0,0,NA,0,1,,"44,68751°","6,39813°",2408,,2,1,3,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,7,,Warluzelle,,02/06/2017,9h02,,1,1,1,3,100,Accenteur alpin,1,0,NA,1,0,,"44,68352°","6,39523°",2338,,2,1,3,0,5,NA,95,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,7,,Warluzelle,,02/06/2017,9h02,,1,1,1,3,100,Alouette des champs,1,1,NA,1,0,,"44,68352°","6,39523°",2338,,2,1,3,0,5,NA,95,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,7,,Warluzelle,,02/06/2017,9h02,,1,1,1,3,100,Pipit spioncelle,2,2,NA,2,0,,"44,68352°","6,39523°",2338,,2,1,3,0,5,NA,95,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,8,,Warluzelle,,02/06/2017,9h22,,1,1,1,3,100,Pipit spioncelle,1,1,NA,1,0,,"44,68533°","6,39150°",2275,,3,1,0,0,1,NA,99,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,8,,Warluzelle,,02/06/2017,9h22,,1,1,1,3,100,Traquet motteux,0,1,NA,1,0,,"44,68533°","6,39150°",2275,,3,1,0,0,1,NA,99,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,8,,Warluzelle,,02/06/2017,9h22,,1,1,1,3,100,Bergeronnette grise,0,1,NA,1,0,,"44,68533°","6,39150°",2275,,3,1,0,0,1,NA,99,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,9,,Warluzelle,,02/06/2017,9h56,,1,1,1,3,100,Pipit spioncelle,2,2,NA,2,0,,"44,68759°","6,38848°",2133,,2,1,3,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,9,,Warluzelle,,02/06/2017,9h56,,1,1,1,3,100,Rouge-queue noir,0,1,NA,1,0,,"44,68759°","6,38848°",2133,,2,1,3,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,9,,Warluzelle,,02/06/2017,9h56,,1,1,1,3,100,Traquet motteux,1,1,NA,1,0,,"44,68759°","6,38848°",2133,,2,1,3,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,10,,Warluzelle,,02/06/2017,10h10,,1,1,1,3,100,Pipit spioncelle,3,2,NA,3,0,,"44,69000°","6,38869°",2160,,3,1,4,0,1,NA,99,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,10,,Warluzelle,,02/06/2017,10h10,,1,1,1,3,100,Traquet motteux,2,2,NA,2,0,,"44,69000°","6,38869°",2160,,3,1,4,0,1,NA,99,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Commenville,,02/06/2017,6h30,,1,1,1,3,100,Accenteur mouchet,1,2,NA,2,0,,"44,66794°","6,39682°",1992,,2,1,4,0,2,NA,93,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Commenville,,02/06/2017,6h30,,1,1,1,3,100,Pipit des arbres,1,1,NA,1,0,,"44,66794°","6,39682°",1992,,2,1,4,0,2,NA,93,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Commenville,,02/06/2017,6h30,,1,1,1,3,100,Pipit spioncelle,0,1,NA,1,0,,"44,66794°","6,39682°",1992,,2,1,4,0,2,NA,93,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Commenville,,02/06/2017,6h30,,1,1,1,3,100,Rouge-queue noir,1,0,NA,1,0,,"44,66794°","6,39682°",1992,,2,1,4,0,2,NA,93,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Commenville,,02/06/2017,6h30,,1,1,1,3,100,Pinson des arbres,2,1,NA,2,0,,"44,66794°","6,39682°",1992,,2,1,4,0,2,NA,93,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Commenville,,02/06/2017,6h30,,1,1,1,3,100,Pouillot véloce,0,0,NA,0,1,,"44,66794°","6,39682°",1992,,2,1,4,0,2,NA,93,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Commenville,,02/06/2017,7h00,,1,1,1,3,100,Crave à bec rouge,0,0,NA,0,1,,"44,67055°","6,39924°",2008,,2,1,0,0,5,NA,90,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Commenville,,02/06/2017,7h00,,1,1,1,3,100,Monticole de roche,0,0,NA,0,1,,"44,67055°","6,39924°",2008,,2,1,0,0,5,NA,90,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Commenville,,02/06/2017,7h00,,1,1,1,3,100,Pipit spioncelle,2,2,NA,2,0,,"44,67055°","6,39924°",2008,,2,1,0,0,5,NA,90,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Commenville,,02/06/2017,7h00,,1,1,1,3,100,Rouge-queue noir,1,0,NA,1,0,,"44,67055°","6,39924°",2008,,2,1,0,0,5,NA,90,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Commenville,,02/06/2017,7h00,,1,1,1,3,100,Pinson des arbres,1,0,NA,1,0,,"44,67055°","6,39924°",2008,,2,1,0,0,5,NA,90,5,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,3,,Commenville,,02/06/2017,7h40,,1,1,1,3,100,Alouette des champs,3,2,NA,3,0,,"44,67147°","6,40703°",2220,,NA,1,5,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,3,,Commenville,,02/06/2017,7h40,,1,1,1,3,100,Linotte Mélodieuse,0,1,NA,1,0,,"44,67147°","6,40703°",2220,,NA,1,5,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,3,,Commenville,,02/06/2017,7h40,,1,1,1,3,100,Pipit spioncelle,1,1,NA,1,0,,"44,67147°","6,40703°",2220,,NA,1,5,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,3,,Commenville,,02/06/2017,7h40,,1,1,1,3,100,Traquet motteux,1,1,NA,1,3,,"44,67147°","6,40703°",2220,,NA,1,5,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,3,,Commenville,,02/06/2017,7h40,,1,1,1,3,100,Pinson des arbres,0,0,NA,0,1,,"44,67147°","6,40703°",2220,,NA,1,5,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,4,,Commenville,,02/06/2017,8h10,,1,1,1,3,100,Alouette des champs,2,1,NA,2,0,,"44,67193°","6,41006°",2247,,1,1,2,0,30,NA,70,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,4,,Commenville,,02/06/2017,8h10,,1,1,1,3,100,Pipit spioncelle,0,2,NA,2,0,,"44,67193°","6,41006°",2247,,1,1,2,0,30,NA,70,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,4,,Commenville,,02/06/2017,8h10,,1,1,1,3,100,Rouge-queue noir,0,1,NA,1,0,,"44,67193°","6,41006°",2247,,1,1,2,0,30,NA,70,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,4,,Commenville,,02/06/2017,8h10,,1,1,1,3,100,Traquet motteux,0,2,NA,2,1,,"44,67193°","6,41006°",2247,,1,1,2,0,30,NA,70,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,5,,Commenville,,02/06/2017,8h35,,1,1,1,3,95,Alouette des champs,1,0,NA,1,0,,"44,67559°","6,40977°",2372,,3,1,3,0,10,NA,90,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,5,,Commenville,,02/06/2017,8h35,,1,1,1,3,95,Crave à bec rouge,0,2,NA,2,0,,"44,67559°","6,40977°",2372,,3,1,3,0,10,NA,90,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,5,,Commenville,,02/06/2017,8h35,,1,1,1,3,95,Pipit spioncelle,1,1,NA,1,0,,"44,67559°","6,40977°",2372,,3,1,3,0,10,NA,90,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,5,,Commenville,,02/06/2017,8h35,,1,1,1,3,95,Traquet motteux,2,2,NA,2,0,,"44,67559°","6,40977°",2372,,3,1,3,0,10,NA,90,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,6,,Commenville,,02/06/2017,8h55,,1,1,1,3,95,Alouette des champs,1,1,NA,1,0,,"44,67849°","6,40997°",2404,,3,1,3,0,33,NA,67,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,6,,Commenville,,02/06/2017,8h55,,1,1,1,3,95,Traquet motteux,0,0,NA,0,1,,"44,67849°","6,40997°",2404,,3,1,3,0,33,NA,67,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,7,,Commenville,,02/06/2017,9h15,,1,1,1,3,100,Néant,0,0,NA,0,0,,"44,67581°","6,41562°",2346,,2,3,4,1,55,NA,45,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,8,,Commenville,,02/06/2017,9h35,,1,1,1,3,100,Accenteur alpin,0,0,NA,0,2,,"44,67545°","6,41,908°",2423,,2,1,3,0,35,NA,65,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,8,,Commenville,,02/06/2017,9h35,,1,1,1,3,100,Alouette des champs,1,0,NA,1,0,,"44,67545°","6,41,908°",2423,,2,1,3,0,35,NA,65,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,8,,Commenville,,02/06/2017,9h35,,1,1,1,3,100,Pipit spioncelle,1,1,NA,1,0,,"44,67545°","6,41,908°",2423,,2,1,3,0,35,NA,65,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,8,,Commenville,,02/06/2017,9h35,,1,1,1,3,100,Traquet motteux,1,3,NA,3,1,,"44,67545°","6,41,908°",2423,,2,1,3,0,35,NA,65,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,9,,Commenville,,02/06/2017,9h50,,1,1,1,3,60,Pipit spioncelle,1,1,NA,1,0,,"44,67363°","6,42180°",2350,,NA,3,1,0,65,NA,35,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,9,,Commenville,,02/06/2017,9h50,,1,1,1,3,60,Rouge-queue noir,1,1,NA,1,0,,"44,67363°","6,42180°",2350,,NA,3,1,0,65,NA,35,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,10,,Commenville,,02/06/2017,6h10,,1,1,1,3,100,Accenteur mouchet,2,2,NA,2,0,,"44,66604°","6,39658°",1913,,3,1,0,0,4,NA,90,1,4,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,10,,Commenville,,02/06/2017,6h10,,1,1,1,3,100,Rouge-queue noir,0,1,NA,1,0,,"44,66604°","6,39658°",1913,,3,1,0,0,4,NA,90,1,4,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,10,,Commenville,,02/06/2017,6h10,,1,1,1,3,100,Tarier des prés,1,0,NA,1,0,,"44,66604°","6,39658°",1913,,3,1,0,0,4,NA,90,1,4,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Corail,,16/06/2021,5h55,,1,1,1,1,100,Pinson des arbres,1,1,NA,1,0,,"44,66794°","6,39682°",1992,,2,1,4,0,0,2,93,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Corail,,16/06/2021,5h55,,1,1,1,1,100,Pipit des arbres,1,1,NA,1,0,,"44,66794°","6,39682°",1992,,2,1,4,0,0,2,93,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Corail,,16/06/2021,5h55,,1,1,1,1,100,Rouge-queue noir,0,1,NA,1,1,,"44,66794°","6,39682°",1992,,2,1,4,0,0,2,93,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Corail,,16/06/2021,5h55,,1,1,1,1,100,Tarier des prés,1,0,NA,1,0,,"44,66794°","6,39682°",1992,,2,1,4,0,0,2,93,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,1,,Corail,,16/06/2021,5h55,,1,1,1,1,100,troglodyte mignon,1,1,NA,1,1,,"44,66794°","6,39682°",1992,,2,1,4,0,0,2,93,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Corail,,16/06/2021,6h15,,1,1,1,1,100,Accenteur mouchet,0,1,NA,1,0,,"44,67055°","6,39924°",2008,,2,1,0,0,1,4,90,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Corail,,16/06/2021,6h15,,1,1,1,1,100,Pinson des arbres,0,1,NA,1,0,,"44,67055°","6,39924°",2008,,2,1,0,0,1,4,90,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Corail,,16/06/2021,6h15,,1,1,1,1,100,Pipit des arbres,1,1,NA,1,0,,"44,67055°","6,39924°",2008,,2,1,0,0,1,4,90,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Corail,,16/06/2021,6h15,,1,1,1,1,100,Pipit spioncelle,0,1,NA,1,0,,"44,67055°","6,39924°",2008,,2,1,0,0,1,4,90,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Corail,,16/06/2021,6h15,,1,1,1,1,100,Tarier des prés,0,0,NA,0,1,,"44,67055°","6,39924°",2008,,2,1,0,0,1,4,90,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Corail,,16/06/2021,6h15,,1,1,1,1,100,Bergeronnette des ruisseaux,0,0,NA,0,1,,"44,67055°","6,39924°",2008,,2,1,0,0,1,4,90,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,2,,Corail,,16/06/2021,6h15,,1,1,1,1,100,Bergeronnette grise,0,0,NA,0,1,,"44,67055°","6,39924°",2008,,2,1,0,0,1,4,90,3,1,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,3,,Corail,,16/06/2021,7h05,,1,1,1,1,100,Alouette des champs,2,2,NA,2,0,,"44,67147°","6,40703°",2220,,2,1,5,0,0,2,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,3,,Corail,,16/06/2021,7h05,,1,1,1,1,100,Pipit des arbres,0,0,NA,0,1,,"44,67147°","6,40703°",2220,,2,1,5,0,0,2,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,3,,Corail,,16/06/2021,7h05,,1,1,1,1,100,Pipit spioncelle,2,2,NA,2,1,,"44,67147°","6,40703°",2220,,2,1,5,0,0,2,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,4,,Corail,,16/06/2021,7h25,,1,1,1,1,100,Alouette des champs,2,2,NA,2,0,,"44,67193°","6,41006°",2247,,3,1,2,0,0,30,70,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,4,,Corail,,16/06/2021,7h25,,1,1,1,1,100,Pipit spioncelle,2,2,NA,2,1,,"44,67193°","6,41006°",2247,,3,1,2,0,0,30,70,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,4,,Corail,,16/06/2021,7h25,,1,1,1,1,100,Traquet motteux,0,1,NA,1,0,,"44,67193°","6,41006°",2247,,3,1,2,0,0,30,70,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,5,,Corail,,16/06/2021,8h00,,1,1,1,1,100,Alouette des champs,1,1,NA,1,0,,"44,67559°","6,40977°",2372,,3,1,3,0,7,3,90,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,5,,Corail,,16/06/2021,8h00,,1,1,1,1,100,Pipit spioncelle,0,2,NA,2,1,,"44,67559°","6,40977°",2372,,3,1,3,0,7,3,90,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,5,,Corail,,16/06/2021,8h00,,1,1,1,1,100,Rouge-queue noir,0,1,NA,1,0,,"44,67559°","6,40977°",2372,,3,1,3,0,7,3,90,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,5,,Corail,,16/06/2021,8h00,,1,1,1,1,100,Traquet motteux,1,1,NA,1,1,,"44,67559°","6,40977°",2372,,3,1,3,0,7,3,90,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,6,,Corail,,16/06/2021,8h25,,1,1,1,1,100,Alouette des champs,1,1,NA,1,0,,"44,67849°","6,40997°",2404,,3,1,3,0,23,10,67,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,6,,Corail,,16/06/2021,8h25,,1,1,1,1,100,Pipit spioncelle,2,2,NA,2,0,,"44,67849°","6,40997°",2404,,3,1,3,0,23,10,67,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,6,,Corail,,16/06/2021,8h25,,1,1,1,1,100,Traquet motteux,2,1,NA,1,0,,"44,67849°","6,40997°",2404,,3,1,3,0,23,10,67,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,7,,Corail,,16/06/2021,9h00,,1,1,1,1,100,Rouge-queue noir,0,0,NA,0,1,,"44,67581°","6,41562°",2346,,2,3,4,1,25,30,45,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,8,,Corail,,16/06/2021,9h25,,1,1,1,3,100,Chocard à bec jaune,0,0,NA,0,3,,"44,67545°","6,41,908°",2423,,2,1,3,0,15,20,65,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,8,,Corail,,16/06/2021,9h25,,1,1,1,3,100,Pipit spioncelle,0,0,NA,0,2,,"44,67545°","6,41,908°",2423,,2,1,3,0,15,20,65,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,8,,Corail,,16/06/2021,9h25,,1,1,1,3,100,Traquet motteux,1,1,NA,1,1,,"44,67545°","6,41,908°",2423,,2,1,3,0,15,20,65,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,9,,Corail,,16/06/2021,9h50,,1,1,1,3,80,Chocard à bec jaune,0,0,NA,0,2,,"44,67363°","6,42180°",2350,,2,3,1,0,20,45,35,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,9,,Corail,,16/06/2021,9h50,,1,1,1,3,80,Pipit spioncelle,0,2,NA,2,0,,"44,67363°","6,42180°",2350,,2,3,1,0,20,45,35,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,9,,Corail,,16/06/2021,9h50,,1,1,1,3,80,Rouge-queue noir,0,1,NA,1,0,,"44,67363°","6,42180°",2350,,2,3,1,0,20,45,35,0,0,0,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,10,,Corail,,16/06/2021,5h35,,1,1,1,1,100,Bruant jaune,1,0,NA,1,0,,"44,66604°","6,39658°",1913,,3,1,0,0,0,4,90,1,4,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,10,,Corail,,16/06/2021,5h35,,1,1,1,1,100,Pipit des arbres,0,0,NA,0,1,,"44,66604°","6,39658°",1913,,3,1,0,0,0,4,90,1,4,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,10,,Corail,,16/06/2021,5h35,,1,1,1,1,100,Rouge-queue noir,0,0,NA,0,1,,"44,66604°","6,39658°",1913,,3,1,0,0,0,4,90,1,4,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,10,,Corail,,16/06/2021,5h35,,1,1,1,1,100,Tarier des prés,0,1,NA,1,0,,"44,66604°","6,39658°",1913,,3,1,0,0,0,4,90,1,4,1,NA,NON
+ECRINS,2,Champsaur,Vallon Cros,Vallon Cros,10,,Corail,,16/06/2021,5h35,,1,1,1,1,100,Bergeronnette des ruisseaux,0,1,NA,1,1,,"44,66604°","6,39658°",1913,,3,1,0,0,0,4,90,1,4,1,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,1,,Warluzelle,Jordana,22/06/2021,6h15,,3,1,3,1,100,Alouette des champs,1,0,NA,1,0,,"44,67588°","6,39741°",2231,,2,1,4,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,1,,Warluzelle,Jordana,22/06/2021,6h15,,3,1,3,1,100,Pipit spioncelle,2,2,NA,2,0,,"44,67588°","6,39741°",2231,,2,1,4,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,2,,Warluzelle,Jordana,22/06/2021,6h35,,3,1,2,1,100,Alouette des champs,1,1,NA,1,0,,"44,66753°","6,39975°",2262,,2,1,0,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,2,,Warluzelle,Jordana,22/06/2021,6h35,,3,1,2,1,100,Pipit spioncelle,2,3,NA,3,0,,"44,66753°","6,39975°",2262,,2,1,0,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,2,,Warluzelle,Jordana,22/06/2021,6h35,,3,1,2,1,100,Traquet motteux,0,1,NA,1,0,,"44,66753°","6,39975°",2262,,2,1,0,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,3,,Warluzelle,Jordana,22/06/2021,6h50,,3,1,2,1,100,Alouette des champs,1,1,NA,1,0,,"44,67852°","6,40298°",2311,,2,1,4,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,3,,Warluzelle,Jordana,22/06/2021,6h50,,3,1,2,1,100,Perdrix bartavelle,1,0,NA,1,0,,"44,67852°","6,40298°",2311,,2,1,4,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,3,,Warluzelle,Jordana,22/06/2021,6h50,,3,1,2,1,100,Pipit spioncelle,2,2,NA,2,0,,"44,67852°","6,40298°",2311,,2,1,4,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,3,,Warluzelle,Jordana,22/06/2021,6h50,,3,1,2,1,100,Rouge-queue noir,1,1,NA,1,0,,"44,67852°","6,40298°",2311,,2,1,4,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,4,,Warluzelle,Jordana,22/06/2021,7h10,,3,1,3,1,98,Pipit spioncelle,2,2,NA,2,0,,"44,68049°","6,40687°",2365,,2,1,4,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,4,,Warluzelle,Jordana,22/06/2021,7h10,,3,1,3,1,98,Rouge-queue noir,2,1,NA,2,0,,"44,68049°","6,40687°",2365,,2,1,4,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,5,,Warluzelle,Jordana,22/06/2021,7h28,,3,1,3,1,100,Alouette des champs,1,1,NA,1,0,,"44,68062°","6,40359°",2350,,2,1,2,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,5,,Warluzelle,Jordana,22/06/2021,7h28,,3,1,3,1,100,Pipit spioncelle,2,3,NA,3,0,,"44,68062°","6,40359°",2350,,2,1,2,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,5,,Warluzelle,Jordana,22/06/2021,7h28,,3,1,3,1,100,Rouge-queue noir,1,1,NA,1,0,,"44,68062°","6,40359°",2350,,2,1,2,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,5,,Warluzelle,Jordana,22/06/2021,7h28,,3,1,3,1,100,Traquet motteux,0,1,NA,1,0,,"44,68062°","6,40359°",2350,,2,1,2,0,2,NA,98,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,6,,Warluzelle,Jordana,22/06/2021,8h05,,3,1,1,1,80,Pipit spioncelle,2,2,NA,2,0,,"44,68751°","6,39813°",2408,,2,1,3,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,6,,Warluzelle,Jordana,22/06/2021,8h05,,3,1,1,1,80,Rouge-queue noir,2,1,NA,2,0,,"44,68751°","6,39813°",2408,,2,1,3,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,6,,Warluzelle,Jordana,22/06/2021,8h05,,3,1,1,1,80,Traquet motteux,1,1,NA,1,0,,"44,68751°","6,39813°",2408,,2,1,3,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,6,,Warluzelle,Jordana,22/06/2021,8h05,,3,1,1,1,80,Coucou gris,0,0,NA,0,1,,"44,68751°","6,39813°",2408,,2,1,3,0,40,NA,60,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,7,,Warluzelle,Jordana,22/06/2021,8h28,,3,1,1,1,100,Alouette des champs,2,2,NA,2,0,,"44,68352°","6,39523°",2338,,2,1,3,0,5,NA,95,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,7,,Warluzelle,Jordana,22/06/2021,8h28,,3,1,1,1,100,Pipit spioncelle,3,3,NA,3,0,,"44,68352°","6,39523°",2338,,2,1,3,0,5,NA,95,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,7,,Warluzelle,Jordana,22/06/2021,8h28,,3,1,1,1,100,Traquet motteux,2,1,NA,2,0,,"44,68352°","6,39523°",2338,,2,1,3,0,5,NA,95,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,7,,Warluzelle,Jordana,22/06/2021,8h28,,3,1,1,1,100,Coucou gris,0,0,NA,0,1,,"44,68352°","6,39523°",2338,,2,1,3,0,5,NA,95,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,8,,Warluzelle,Jordana,22/06/2021,8h50,,3,1,2,1,100,Alouette des champs,2,2,NA,2,0,,"44,68533°","6,39150°",2275,,3,1,0,0,1,NA,99,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,8,,Warluzelle,Jordana,22/06/2021,8h50,,3,1,2,1,100,Pipit spioncelle,1,2,NA,2,0,,"44,68533°","6,39150°",2275,,3,1,0,0,1,NA,99,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,9,,Warluzelle,Jordana,22/06/2021,9h09,,3,1,1,1,100,Alouette des champs,1,0,NA,1,0,,"44,68759°","6,38848°",2133,,2,1,3,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,9,,Warluzelle,Jordana,22/06/2021,9h09,,3,1,1,1,100,Pipit spioncelle,2,1,NA,2,0,,"44,68759°","6,38848°",2133,,2,1,3,0,3,NA,97,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,10,,Warluzelle,Jordana,22/06/2021,9h30,,3,1,1,1,100,Monticole de roche,1,1,NA,1,0,,"44,69000°","6,38869°",2160,,3,1,4,0,1,NA,99,0,0,0,NA,NON
+ECRINS,2,Champsaur,Le Vallon,Le Vallon,10,,Warluzelle,Jordana,22/06/2021,9h30,,3,1,1,1,100,Pipit spioncelle,2,1,NA,2,0,,"44,69000°","6,38869°",2160,,3,1,4,0,1,NA,99,0,0,0,NA,NON

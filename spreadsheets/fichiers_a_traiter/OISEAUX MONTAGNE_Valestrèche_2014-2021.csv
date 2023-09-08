@@ -1,0 +1,210 @@
+ZONE,ID ZONE,SECTEUR,NOM SITE,ID SITE,NPOINT,IDUNIQUE,OBSERVATEUR 1,OBSERVATEUR 2,DATE,HEURE DEBUT,MINUTES DEPUIS MINUIT,COUV NUAGE,PLUIE,VENT,VISI,DENEIGMT,ESPECE,NB05,NB510,NB1015,MAX10,NB100,RQ,X,Y,ALT,RASTALT,AGRI,IR,IIR1,IIR2,% SOL NU,% ROCH,% HERB,%ARBRISSEAU,%ARBUSTE,%ARBRES,% CROTTES,INFO SUP PATURAGE 
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,20/06/2014,10h15,615,1,1,1,1,96,Chocard à bec jaune,0,0,NA,0,2,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,20/06/2014,10h15,615,1,1,1,1,96,Pipit spioncelle,0,0,NA,0,2,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,20/06/2014,10h15,615,1,1,1,1,96,Traquet motteux,0,0,NA,0,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,20/06/2014,11h0,660,1,1,1,1,85,Chocard à bec jaune,0,0,NA,0,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,20/06/2014,11h0,660,1,1,1,1,85,Rougequeue noir,0,0,NA,0,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,20/06/2014,11h20,680,1,1,1,1,95,Chocard à bec jaune,0,0,NA,0,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,20/06/2014,11h20,680,1,1,1,1,95,Rougequeue noir,2,0,NA,2,0,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,20/06/2014,11h20,680,1,1,1,1,95,Vautour fauve,0,0,NA,0,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,20/06/2014,11h50,710,1,1,1,1,98,Accenteur alpin,0,1,NA,1,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,20/06/2014,11h50,710,1,1,1,1,98,Chocard à bec jaune,1,0,NA,1,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,20/06/2014,11h50,710,1,1,1,1,98,Pipit spioncelle,1,0,NA,1,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,20/06/2014,11h50,710,1,1,1,1,98,Rougequeue noir,1,0,NA,1,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,20/06/2014,12h15,735,1,1,1,1,95,Chocard à bec jaune,2,0,NA,2,0,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,20/06/2014,12h15,735,1,1,1,1,95,Pipit spioncelle,0,0,NA,0,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,20/06/2014,12h15,735,1,1,1,1,95,Rougequeue noir,2,2,NA,2,0,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,20/06/2014,12h40,760,1,1,1,1,99,Pipit spioncelle,0,0,NA,0,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,20/06/2014,12h40,760,1,1,1,1,99,Rougequeue noir,2,2,NA,2,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,20/06/2014,13h0,780,1,1,1,1,100,Linotte Mélodieuse,2,2,NA,2,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,20/06/2014,13h0,780,1,1,1,1,100,Rougequeue noir,1,1,NA,1,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Corail Marc,,20/06/2014,8h0,480,1,1,1,1,100,Rougequeue noir,1,2,NA,2,0,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,20/06/2014,9h0,540,1,1,1,1,20,Chocard à bec jaune,0,0,NA,0,1,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,20/06/2014,9h0,540,1,1,1,1,20,Rougequeue noir,2,2,NA,2,0,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,20/06/2014,9h30,570,1,1,1,1,100,Hirondelle de rocher,0,0,NA,0,2,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,20/06/2014,9h30,570,1,1,1,1,100,Rougequeue noir,1,1,NA,1,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,24/06/2015,10h19,619,1,1,1,1,100,Chocard à bec jaune,0,0,NA,0,3,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,24/06/2015,10h19,619,1,1,1,1,100,Rougequeue noir,2,1,NA,2,1,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,24/06/2015,10h2,602,1,1,1,1,100,Chocard à bec jaune,0,0,NA,0,2,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,24/06/2015,10h2,602,1,1,1,1,100,Rougequeue noir,2,1,NA,2,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,24/06/2015,10h2,602,1,1,1,1,100,Bergeronnette des ruisseaux,1,1,NA,1,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Corail Marc,,24/06/2015,6h15,375,1,1,1,1,100,aucune,0,0,NA,0,0,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,24/06/2015,6h37,397,1,1,1,1,100,aucune,0,0,NA,0,0,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,24/06/2015,7h38,458,1,1,1,1,100,Grand corbeau,0,0,NA,0,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,24/06/2015,7h38,458,1,1,1,1,100,Pipit spioncelle,0,0,NA,0,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,24/06/2015,7h38,458,1,1,1,1,100,Rougequeue noir,1,1,NA,1,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,24/06/2015,7h38,458,1,1,1,1,100,Traquet motteux,1,1,NA,1,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,24/06/2015,7h5,425,1,1,1,1,100,Accenteur alpin,1,0,NA,1,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,24/06/2015,7h5,425,1,1,1,1,100,Linotte Mélodieuse,1,1,NA,1,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,24/06/2015,7h5,425,1,1,1,1,100,Pipit spioncelle,1,1,NA,1,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,24/06/2015,7h5,425,1,1,1,1,100,Rougequeue noir,0,1,NA,1,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,24/06/2015,8h15,495,1,1,1,1,100,Accenteur alpin,1,0,NA,1,0,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,24/06/2015,8h15,495,1,1,1,1,100,Rougequeue noir,1,0,NA,1,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,24/06/2015,8h55,535,1,1,1,1,100,Chocard à bec jaune,0,0,NA,0,8,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,24/06/2015,8h55,535,1,1,1,1,100,Pipit spioncelle,1,0,NA,1,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,24/06/2015,8h55,535,1,1,1,1,100,Rougequeue noir,0,0,NA,0,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,24/06/2015,9h20,560,1,1,1,1,100,Pipit spioncelle,0,1,NA,1,2,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,24/06/2015,9h20,560,1,1,1,1,100,Rougequeue noir,0,0,NA,0,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,24/06/2015,9h43,583,1,1,1,1,100,Chocard à bec jaune,0,0,NA,0,3,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,24/06/2015,9h43,583,1,1,1,1,100,Pipit spioncelle,0,0,NA,0,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,24/06/2015,9h43,583,1,1,1,1,100,Rougequeue noir,1,2,NA,2,2,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Corail Marc,,20/06/2016,6h10,,1,1,1,1,100,Accenteur mouchet,1,1,NA,,0,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,20/06/2016,6h30,,1,1,1,1,100,Bergeronnette des ruisseaux,1,1,NA,,0,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,20/06/2016,6h55,,1,1,1,1,100,aucune,0,0,NA,0,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,20/06/2016,7h20,,1,1,1,1,97,Chocard à bec jaune,0,0,NA,,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,20/06/2016,7h20,,1,1,1,1,97,Traquet motteux,0,1,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,20/06/2016,8h00,,1,1,1,1,70,Accenteur alpin,1,2,NA,,0,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,20/06/2016,8h00,,1,1,1,1,70,Rougequeue noir,1,1,NA,,0,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,20/06/2016,8h00,,1,1,1,1,70,Traquet motteux,1,0,NA,,0,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,20/06/2016,8h40,,1,1,1,1,100,Crave à bec rouge,0,,NA,,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,20/06/2016,8h40,,1,1,1,1,100,Rougequeue noir,2,2,NA,,0,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,20/06/2016,9h00,,1,1,1,1,100,Chocard à bec jaune,0,0,NA,,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,20/06/2016,9h00,,1,1,1,1,100,Pipit spioncelle,1,0,NA,,2,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,20/06/2016,9h00,,1,1,1,1,100,Rougequeue noir,2,2,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,20/06/2016,9h00,,1,1,1,1,100,Traquet motteux,0,0,NA,,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,20/06/2016,9h20,,1,1,1,1,100,Hirondelle de rocher,0,0,NA,,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,20/06/2016,9h20,,1,1,1,1,100,Rougequeue noir,0,0,NA,,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,20/06/2016,9h20,,1,1,1,1,99,Accenteur mouchet,1,1,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,20/06/2016,9h20,,1,1,1,1,99,Chocard à bec jaune,0,0,NA,,3,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,20/06/2016,9h20,,1,1,1,1,99,Rougequeue noir,1,0,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,20/06/2016,9h20,,1,1,1,1,99,Traquet motteux,1,0,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,20/06/2016,9h20,,1,1,1,1,99,Bergeronnette des ruisseaux,1,1,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,20/06/2016,9h55,,1,1,1,1,100,Accenteur mouchet,0,0,NA,,1,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,20/06/2016,9h55,,1,1,1,1,100,Chocard à bec jaune,0,0,NA,,10,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,20/06/2016,9h55,,1,1,1,1,100,Rougequeue noir,3,1,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,20/06/2016,9h55,,1,1,1,1,100,Traquet motteux,1,1,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Charron Julien,,09/06/2017,5h45,,1,1,1,1,100,Traquet motteux,2,2,NA,,0,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Charron Julien,,09/06/2017,5h45,,1,1,1,1,100,Troglodyte mignon,1,0,NA,,0,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Charron Julien,,09/06/2017,5h45,,1,1,1,1,100,Chocard à bec jaune,0,0,NA,,1,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Charron Julien,,09/06/2017,6h06,,1,1,1,1,100,Traquet motteux,0,1,NA,,0,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Charron Julien,,09/06/2017,6h22,,1,1,1,1,100,Pipit spioncelle,2,1,NA,,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Charron Julien,,09/06/2017,6h22,,1,1,1,1,100,Accenteur alpin,1,0,NA,,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Charron Julien,,09/06/2017,6h22,,1,1,1,1,100,Rougequeue noir,1,1,NA,,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Charron Julien,,09/06/2017,6h22,,1,1,1,1,100,Traquet motteux,1,0,NA,,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Charron Julien,,09/06/2017,6h50,,1,1,1,1,95,Crave à bec rouge,1,,NA,,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Charron Julien,,09/06/2017,6h50,,1,1,1,1,95,Rougequeue noir,1,1,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Charron Julien,,09/06/2017,6h50,,1,1,1,1,95,Traquet motteux,1,0,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Charron Julien,,09/06/2017,6h50,,1,1,1,1,95,Pipit spioncelle,0,1,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Charron Julien,,09/06/2017,7h22,,1,1,1,1,90,Crave à bec rouge,0,,NA,,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Charron Julien,,09/06/2017,7h22,,1,1,1,1,90,Pipit spioncelle,1,0,NA,,0,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Charron Julien,,09/06/2017,7h22,,1,1,1,1,90,Rougequeue noir,1,0,NA,,0,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Charron Julien,,09/06/2017,7h22,,1,1,1,1,90,Traquet motteux,0,0,NA,,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Charron Julien,,09/06/2017,7h55,,1,1,1,1,100,Chocard à bec jaune,0,0,NA,,3,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Charron Julien,,09/06/2017,7h55,,1,1,1,1,100,Pipit spioncelle,2,0,NA,,0,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Charron Julien,,09/06/2017,7h55,,1,1,1,1,100,Rougequeue noir,0,1,NA,,0,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Charron Julien,,09/06/2017,7h55,,1,1,1,1,100,Traquet motteux,2,1,NA,,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Charron Julien,,09/06/2017,8h19,,1,1,1,1,100,Pipit spioncelle,1,1,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Charron Julien,,09/06/2017,8h19,,1,1,1,1,100,Traquet motteux,2,1,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Charron Julien,,09/06/2017,8h42,,1,1,1,1,100,Accenteur alpin,0,0,NA,,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Charron Julien,,09/06/2017,8h42,,1,1,1,1,100,Pipit spioncelle,2,1,NA,,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Charron Julien,,09/06/2017,8h42,,1,1,1,1,100,Rougequeue noir,0,1,NA,,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Charron Julien,,09/06/2017,8h42,,1,1,1,1,100,Traquet motteux,1,0,NA,,0,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Charron Julien,,09/06/2017,9h01,,1,1,1,1,100,Linotte Mélodieuse,1,1,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Charron Julien,,09/06/2017,9h01,,1,1,1,1,100,Pipit spioncelle,0,0,NA,,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Charron Julien,,09/06/2017,9h01,,1,1,1,1,100,Rougequeue noir,1,1,NA,,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Charron Julien,,09/06/2017,9h01,,1,1,1,1,100,Traquet motteux,1,0,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Charron Julien,,09/06/2017,9h19,,1,1,1,1,100,Accenteur alpin,0,1,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Charron Julien,,09/06/2017,9h19,,1,1,1,1,100,Chocard à bec jaune,3,2,NA,,1,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Charron Julien,,09/06/2017,9h19,,1,1,1,1,100,Hirondelle de rocher,1,1,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Charron Julien,,09/06/2017,9h19,,1,1,1,1,100,Rougequeue noir,2,1,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Charron Julien,,09/06/2017,9h19,,1,1,1,1,100,Traquet motteux,1,2,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Corail Marc,,07/06/2019,6h10,,1,1,2,1,100,Rougequeue noir,0,0,NA,,1,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Corail Marc,,07/06/2019,6h10,,1,1,2,1,100,Pipit spioncelle,0,0,NA,,1,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,07/06/2019,6h35,,1,1,2,1,95,Chocard à bec jaune,0,0,NA,,2,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,07/06/2019,6h35,,1,1,2,1,95,Pipit spioncelle,0,0,NA,,1,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,07/06/2019,7h05,,1,1,2,1,99,Pipit spioncelle,0,0,NA,,1,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,07/06/2019,7h05,,1,1,2,1,99,Traquet motteux,0,0,NA,,1,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,07/06/2019,7h35,,1,1,3,1,85,Hirondelle de rocher,0,0,NA,,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,07/06/2019,7h35,,1,1,3,1,85,Pipit spioncelle,1,1,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,07/06/2019,7h35,,1,1,3,1,85,Traquet motteux,1,1,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,07/06/2019,8h05,,1,1,2,1,15,Chocard à bec jaune,0,0,NA,,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,07/06/2019,8h05,,1,1,2,1,15,Crave à bec rouge,0,0,NA,,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,07/06/2019,8h05,,1,1,2,1,15,Traquet motteux,1,1,NA,,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,07/06/2019,8h40,,1,1,2,1,97,Chocard à bec jaune,0,0,NA,,2,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,07/06/2019,8h40,,1,1,2,1,97,Pipit spioncelle,1,0,NA,,0,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,07/06/2019,8h40,,1,1,2,3,97,Rougequeue noir,0,0,NA,,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,07/06/2019,9h00,,1,1,1,1,80,Linotte Mélodieuse,0,1,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,07/06/2019,9h00,,1,1,1,1,80,Rougequeue noir,1,2,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,07/06/2019,9h00,,1,1,1,1,80,Traquet motteux,1,0,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,07/06/2019,9h30,,1,1,1,1,100,aucune,0,0,NA,,0,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,07/06/2019,9h50,,1,1,2,1,98,Chocard à bec jaune,0,0,NA,,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,07/06/2019,9h50,,1,1,2,1,98,Linotte Mélodieuse,0,0,NA,,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,07/06/2019,9h50,,1,1,2,1,98,Pipit spioncelle,0,0,NA,,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,07/06/2019,9h50,,1,1,2,1,98,Rougequeue noir,1,1,NA,,2,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,07/06/2019,10h10,,1,1,2,1,100,Pipit spioncelle,1,0,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,07/06/2019,10h10,,1,1,2,1,100,Rougequeue noir,1,0,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Corail Marc,,26/06/2018,6h00,,1,1,1,1,100,Traquet motteux,0,1,NA,,0,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,26/06/2018,6h20,,1,1,1,1,100,Pipit spioncelle,0,0,NA,,1,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,26/06/2018,6h20,,1,1,1,1,100,Rougequeue noir,1,1,NA,,0,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,26/06/2018,6h45,,1,1,1,1,100,Chocard à bec jaune,0,0,NA,,4,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,26/06/2018,6h45,,1,1,1,1,100,Pipit spioncelle,0,0,NA,,2,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,26/06/2018,6h45,,1,1,1,1,100,Rougequeue noir,2,0,NA,,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,26/06/2018,7h10,,1,1,1,1,100,Chocard à bec jaune,0,0,NA,,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,26/06/2018,7h10,,1,1,1,1,100,Pipit spioncelle,1,1,NA,,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,26/06/2018,7h40,,1,1,1,3,100,Chocard à bec jaune,0,0,NA,,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,26/06/2018,7h40,,1,1,1,3,100,Crave à bec rouge,0,0,NA,,2,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,26/06/2018,7h40,,1,1,1,3,100,Traquet motteux,0,1,NA,,0,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,26/06/2018,8h30,,1,1,1,1,95,Accenteur alpin,1,0,NA,,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,26/06/2018,8h30,,1,1,1,1,95,Crave à bec rouge,0,0,NA,,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,26/06/2018,8h30,,1,1,1,1,95,Pipit spioncelle,1,0,NA,,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,26/06/2018,8h30,,1,1,1,1,95,Rougequeue noir,1,1,NA,,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,26/06/2018,8h50,,1,1,1,1,100,Accenteur alpin,1,1,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,26/06/2018,8h50,,1,1,1,1,100,Pipit spioncelle,0,0,NA,,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,26/06/2018,8h50,,1,1,1,1,100,Traquet motteux,0,0,NA,,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,26/06/2018,9h10,,1,1,1,1,100,Pipit spioncelle,1,0,NA,,0,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,26/06/2018,9h10,,1,1,1,1,100,Rougequeue noir,0,0,NA,,2,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,26/06/2018,9h10,,1,1,1,1,100,Traquet motteux,0,1,NA,,0,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,26/06/2018,9h25,,1,1,1,1,85,Chocard à bec jaune,0,0,NA,,4,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,26/06/2018,9h25,,1,1,1,1,85,Pipit spioncelle,0,0,NA,,2,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,26/06/2018,9h25,,1,1,1,1,85,Rougequeue noir,2,1,NA,,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,26/06/2018,9h25,,1,1,1,1,85,Traquet motteux,0,1,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,26/06/2018,9h50,,1,1,1,1,100,Pipit spioncelle,2,0,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,26/06/2018,9h50,,1,1,1,1,100,Rougequeue noir,2,2,NA,,1,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,26/06/2018,9h50,,1,1,1,1,100,Traquet motteux,1,0,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Corail Marc,,09/06/2020,6h00,,3,1,2,1,100,Rougequeue noir,0,1,NA,,1,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,09/06/2020,6h20,,3,1,3,1,98,Rougequeue noir,0,1,NA,,0,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,09/06/2020,6h20,,3,1,3,1,98,Troglodyte mignon,0,0,NA,,1,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,09/06/2020,6h20,,3,1,3,1,98,Bergeronnette des ruisseaux,0,0,NA,,1,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,09/06/2020,7h05,,3,1,1,1,100,Chocard à bec jaune,0,0,NA,,1,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,09/06/2020,7h05,,3,1,1,1,100,Rougequeue noir,0,1,NA,,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,09/06/2020,7h15,,3,2,2,2,90,Accenteur alpin,0,1,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,09/06/2020,7h15,,3,2,2,2,90,Chocard à bec jaune,0,0,NA,,2,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,09/06/2020,7h15,,3,2,2,2,90,Lagopède alpin,1,0,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,09/06/2020,7h15,,3,2,2,2,90,Pipit spioncelle,0,1,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,09/06/2020,7h15,,3,2,2,2,90,Traquet motteux,0,1,NA,,0,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,09/06/2020,7h40,,3,1,1,1,30,Chocard à bec jaune,0,0,NA,,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,09/06/2020,7h40,,3,1,1,1,30,Rougequeue noir,0,1,NA,,0,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,09/06/2020,8h25,,3,1,2,2,99,Rougequeue noir,1,1,NA,,0,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,09/06/2020,8h45,,3,1,2,1,98,Pipit spioncelle,1,1,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,09/06/2020,8h45,,3,1,2,1,98,Rougequeue noir,1,1,NA,,0,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,09/06/2020,8h45,,3,1,2,1,98,Traquet motteux,0,1,NA,,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,09/06/2020,9h05,,3,1,2,1,98,Rougequeue noir,1,0,NA,,0,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,09/06/2020,9h25,,3,1,1,1,99,Rougequeue noir,1,1,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,09/06/2020,9h25,,3,1,1,1,99,Bergeronnette des ruisseaux,0,1,NA,,0,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,09/06/2020,9h45,,3,1,2,1,99,Pipit spioncelle,0,1,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,09/06/2020,9h45,,3,1,2,1,99,Rougequeue noir,1,1,NA,,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,1,5_1,Corail Marc,,10/06/2021,7h00,,1,1,1,1,100,Traquet motteux,1,0,NA,1,0,,6.218527777777778,44.75611111111111,1990,,2,3,2,1,NA,65,15,20,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,2,5_2,Corail Marc,,10/06/2021,7h20,,1,1,1,1,85,Pipit spioncelle,1,0,NA,1,1,,6.215527777777778,44.756194444444446,2150,,1,3,1,2,NA,90,8,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,10/06/2021,7h45,,1,1,1,1,95,Chocard à bec jaune,0,0,NA,0,1,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,3,5_3,Corail Marc,,10/06/2021,7h45,,1,1,1,1,95,Pipit spioncelle,1,1,NA,1,0,,6.216055555555555,44.758277777777778,2275,,2,1,3,2,NA,30,45,25,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,10/06/2021,8h10,,1,1,1,1,65,Pipit spioncelle,1,1,NA,1,2,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,10/06/2021,8h10,,1,1,1,1,65,Traquet motteux,1,0,NA,1,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,10/06/2021,8h10,,1,1,1,1,65,Chocard à bec jaune,0,0,NA,0,4,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,4,5_4,Corail Marc,,10/06/2021,8h10,,1,1,1,1,65,Grand corbeau,0,0,NA,0,1,,6.21575,44.760805555555557,2420,,2,1,4,3,NA,60,40,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,10/06/2021,8h45,,1,1,1,1,2,Traquet motteux,0,1,NA,1,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,5,5_5,Corail Marc,,10/06/2021,8h45,,1,1,1,1,2,Rougequeue noir,0,0,NA,0,1,,6.216,44.765111111111111,2560,,1,3,4,1,NA,99,1,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,10/06/2021,9h15,,1,1,1,1,85,Rougequeue noir,1,1,NA,1,0,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,10/06/2021,9h15,,1,1,1,1,85,Pipit spioncelle,1,0,NA,1,0,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,6,5_6,Corail Marc,,10/06/2021,9h15,,1,1,1,1,85,Traquet motteux,0,1,NA,1,1,,6.22275,44.765111111111111,2480,,2,3,1,4,NA,65,35,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,10/06/2021,9h35,,1,1,1,1,75,Pipit spioncelle,1,0,NA,1,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,10/06/2021,9h35,,1,1,1,1,75,Traquet motteux,0,1,NA,1,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,7,5_7,Corail Marc,,10/06/2021,9h35,,1,1,1,1,75,Chocard à bec jaune,0,0,NA,0,1,,6.22275,44.762527777777777,2390,,2,1,4,3,NA,40,60,2,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,09/06/2020,9h50,,1,1,1,1,80,Rougequeue noir,1,1,NA,1,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,8,5_8,Corail Marc,,09/06/2020,9h50,,1,1,1,1,80,Accenteur alpin,0,0,NA,0,1,,6.225361111111111,44.76038888888889,2350,,1,3,1,0,NA,96,3,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,09/06/2020,10h05,,1,1,1,1,75,Rougequeue noir,0,0,NA,0,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,09/06/2020,10h05,,1,1,1,1,75,Pipit spioncelle,0,0,NA,0,1,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,9,5_9,Corail Marc,,09/06/2020,10h05,,1,1,1,1,75,Chocard à bec jaune,0,0,NA,0,2,,6.2225,44.760194444444444,2040,,1,3,4,2,NA,80,10,10,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,09/06/2020,10h20,,1,1,1,1,70,Rougequeue noir,0,1,NA,1,1,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,09/06/2020,10h20,,1,1,1,1,70,Traquet motteux,1,1,NA,1,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,09/06/2020,10h20,,1,1,1,1,70,Linotte Mélodieuse,1,0,NA,1,0,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON
+ECRINS,2,Champsaur,Valestrèche,5,10,5_10,Corail Marc,,09/06/2020,10h20,,1,1,1,1,70,Pipit spioncelle,1,0,NA,1,2,,6.2215,44.758111111111113,2010,,1,4,1,3,NA,90,9,1,0,0,NA,NON

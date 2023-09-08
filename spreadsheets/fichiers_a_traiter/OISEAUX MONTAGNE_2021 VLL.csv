@@ -1,0 +1,86 @@
+SECTEUR,NOM SITE,N°SECTEUR COMPTAGE,NPOINT,OBSERVATEUR 1,OBSERVATEUR 2,DATE,HEURE DEBUT,COUV NUAGE,PLUIE,VENT,VISI,DENEIGEMT,ESPECE,NB05,NB510,NB100 ,NB1015,MAX10,Liste espèces
+Vallouise,Fournel bas,85,1,M.G.Nicolas,,10/06/21,6h00,1,1,2,1,100,Alouette des champs,1,,,,,Accenteur alpin
+Vallouise,Fournel bas,85,1,M.G.Nicolas,,10/06/21,6h00,1,1,2,1,100,Linotte mélodieuse,1,1,,,,Accenteur mouchet
+Vallouise,Fournel bas,85,1,M.G.Nicolas,,10/06/21,6h00,1,1,2,1,100,Pipit spioncelle,1,1,,,,Alouette des champs
+Vallouise,Fournel bas,85,1,M.G.Nicolas,,10/06/21,6h00,1,1,2,1,100,Rougequeue noir,,1,,,,Bec-croisé des sapins
+Vallouise,Fournel bas,85,1,M.G.Nicolas,,10/06/21,6h00,1,1,2,1,100,Traquet motteux,,1,1,,,Bergeronnette des ruisseaux
+Vallouise,Fournel bas,85,2,M.G.Nicolas,,10/06/21,6h32,1,1,2,1,100,Alouette des champs,1,1,,,,Bruant jaune
+Vallouise,Fournel bas,85,2,M.G.Nicolas,,10/06/21,6h32,1,1,2,1,100,Pipit spioncelle,,1,,,,Bruant ortolan
+Vallouise,Fournel bas,85,3,M.G.Nicolas,,10/06/21,6h59,1,1,2,1,100,Alouette des champs,,,1,,,Caille des blés
+Vallouise,Fournel bas,85,3,M.G.Nicolas,,10/06/21,6h59,1,1,2,1,100,Chocard à bec jaune,,,1,,,Chocard à bec jaune
+Vallouise,Fournel bas,85,3,M.G.Nicolas,,10/06/21,6h59,1,1,2,1,100,Monticole de roche,,,1,,,Corneille noire
+Vallouise,Fournel bas,85,3,M.G.Nicolas,,10/06/21,6h59,1,1,2,1,100,Perdrix bartavelle,,,1,,,Coucou gris
+Vallouise,Fournel bas,85,3,M.G.Nicolas,,10/06/21,6h59,1,1,2,1,100,Pipit spioncelle,,1,,,,Crave à bec rouge
+Vallouise,Fournel bas,85,4,M.G.Nicolas,,10/06/21,7h30,2,1,1,1,100,Alouette des champs,1,1,,,,Faucon crécerelle
+Vallouise,Fournel bas,85,4,M.G.Nicolas,,10/06/21,7h30,2,1,1,1,100,Chocard à bec jaune,1,,1,,,Fauvette à tête noire
+Vallouise,Fournel bas,85,4,M.G.Nicolas,,10/06/21,7h30,2,1,1,1,100,Rougequeue noir,1,1,,,,Fauvette des jardins
+Vallouise,Fournel bas,85,5,M.G.Nicolas,,10/06/21,8h18,2,1,1,1,100,Alouette des champs,,,1,,,Grand corbeau
+Vallouise,Fournel bas,85,5,M.G.Nicolas,,10/06/21,8h18,2,1,1,1,100,Bruant ortolan,,,1,,,Grive draine
+Vallouise,Fournel bas,85,5,M.G.Nicolas,,10/06/21,8h18,2,1,1,1,100,Linotte mélodieuse,2,2,,,,Grive musicienne
+Vallouise,Fournel bas,85,5,M.G.Nicolas,,10/06/21,8h18,2,1,1,1,100,Perdrix bartavelle,,,1,,,Hirondelle de fenêtre
+Vallouise,Fournel bas,85,5,M.G.Nicolas,,10/06/21,8h18,2,1,1,1,100,Pipit spioncelle,,1,1,,,Hirondelle de rocher
+Vallouise,Fournel bas,85,5,M.G.Nicolas,,10/06/21,8h18,2,1,1,1,100,Traquet motteux,,,1,,,Linotte mélodieuse
+Vallouise,Fournel bas,85,6,M.G.Nicolas,,10/06/21,8h36,2,1,1,1,100,Alouette des champs,,,1,,,Merle à plastron
+Vallouise,Fournel bas,85,6,M.G.Nicolas,,10/06/21,8h36,2,1,1,1,100,Bruant ortolan,1,1,,,,Merle noir
+Vallouise,Fournel bas,85,6,M.G.Nicolas,,10/06/21,8h36,2,1,1,1,100,Linotte mélodieuse,1,1,,,,Mésange noire
+Vallouise,Fournel bas,85,6,M.G.Nicolas,,10/06/21,8h36,2,1,1,1,100,Perdrix bartavelle,2,1,,,,Mésange boréale
+Vallouise,Fournel bas,85,6,M.G.Nicolas,,10/06/21,8h36,2,1,1,1,100,Pipit spioncelle,1,1,,,,Monticole de roche
+Vallouise,Fournel bas,85,6,M.G.Nicolas,,10/06/21,8h36,2,1,1,1,100,Traquet motteux,1,,,,,Niverolle alpine
+Vallouise,Fournel bas,85,7,M.G.Nicolas,,10/06/21,9h09,2,1,2,1,100,Alouette des champs,,1,,,,Pipit spioncelle
+Vallouise,Fournel bas,85,7,M.G.Nicolas,,10/06/21,9h09,2,1,2,1,100,Bruant ortolan,,1,1,,,Martinetà ventre blanc
+Vallouise,Fournel bas,85,7,M.G.Nicolas,,10/06/21,9h09,2,1,2,1,100,Faucon crécerelle,,,1,,,Pipit des arbres
+Vallouise,Fournel bas,85,7,M.G.Nicolas,,10/06/21,9h09,2,1,2,1,100,Linotte mélodieuse,,1,,,,Pinson des arbres
+Vallouise,Fournel bas,85,7,M.G.Nicolas,,10/06/21,9h09,2,1,2,1,100,Traquet motteux,1,,,,,Perdrix bartavelle
+Vallouise,Fournel bas,85,8,M.G.Nicolas,,10/06/21,9h30,2,1,2,1,100,Alouette des champs,1,,,,,Pouillot véloce
+Vallouise,Fournel bas,85,8,M.G.Nicolas,,10/06/21,9h30,2,1,2,1,100,Crave à bec rouge,,,1,,,Rougegorge familier
+Vallouise,Fournel bas,85,8,M.G.Nicolas,,10/06/21,9h30,2,1,2,1,100,Linotte mélodieuse,,1,,,,Rougequeue noir
+Vallouise,Fournel bas,85,9,M.G.Nicolas,,10/06/21,9h49,1,1,2,1,100,Alouette des champs,,1,,,,Tarier pâtre
+Vallouise,Fournel bas,85,9,M.G.Nicolas,,10/06/21,9h49,1,1,2,1,100,Rougequeue noir,2,2,,,,Tarier des prés
+Vallouise,Fournel bas,85,9,M.G.Nicolas,,10/06/21,9h49,1,1,2,1,100,Traquet motteux,2,2,,,,Tichodrome échelette
+Vallouise,Fournel bas,85,10,M.G.Nicolas,,10/06/21,10h19,2,1,1,1,100,Chocard à bec jaune,,1,,,,Traquet motteux
+Vallouise,Fournel bas,85,10,M.G.Nicolas,,10/06/21,10h19,2,1,1,1,100,Crave à bec rouge,,1,,,,Troglodyte mignon
+Vallouise,Val haute,90,2,J.P.Telmon,,16/06/21,5h35,1,1,1,1,100,Accenteur mouchet,,1,,,,Vautour fauve
+Vallouise,Val haute,90,2,J.P.Telmon,,16/06/21,5h35,1,1,1,1,100,Alouette des champs,1,2,1,,,
+Vallouise,Val haute,90,2,J.P.Telmon,,16/06/21,5h35,1,1,1,1,100,Pinson des arbres,2,1,,,,
+Vallouise,Val haute,90,2,J.P.Telmon,,16/06/21,5h35,1,1,1,1,100,Pipit des arbres,1,,,,,
+Vallouise,Val haute,90,2,J.P.Telmon,,16/06/21,5h35,1,1,1,1,100,Pipit spioncelle,1,,,,,
+Vallouise,Val haute,90,2,J.P.Telmon,,16/06/21,5h35,1,1,1,1,100,Mésange boréale,,,1,,,
+Vallouise,Val haute,90,3,J.P.Telmon,,16/06/21,5h58,1,1,1,1,100,Alouette des champs,1,2,,,,
+Vallouise,Val haute,90,3,J.P.Telmon,,16/06/21,5h58,1,1,1,1,100,Bruant jaune,1,1,,,,
+Vallouise,Val haute,90,3,J.P.Telmon,,16/06/21,5h58,1,1,1,1,100,Perdrix bartavelle,1,,,,,
+Vallouise,Val haute,90,3,J.P.Telmon,,16/06/21,5h58,1,1,1,1,100,Pipit des arbres,1,,,,,
+Vallouise,Val haute,90,3,J.P.Telmon,,16/06/21,5h58,1,1,1,1,100,Pipit spioncelle,,1,,,,
+Vallouise,Val haute,90,4,J.P.Telmon,,16/06/21,6h20,1,1,1,1,100,Alouette des champs,,,1,,,
+Vallouise,Val haute,90,4,J.P.Telmon,,16/06/21,6h20,1,1,1,1,100,Bruant jaune,1,1,,,,
+Vallouise,Val haute,90,4,J.P.Telmon,,16/06/21,6h20,1,1,1,1,100,Pinson des arbres,2,2,,,,
+Vallouise,Val haute,90,4,J.P.Telmon,,16/06/21,6h20,1,1,1,1,100,Pipit des arbres,3,2,,,,
+Vallouise,Val haute,90,5,J.P.Telmon,,16/06/21,7h05,1,1,1,1,100,Merle à plastron,2,1,,,,
+Vallouise,Val haute,90,5,J.P.Telmon,,16/06/21,7h05,1,1,1,1,100,Pinson des arbres,3,2,,,,
+Vallouise,Val haute,90,5,J.P.Telmon,,16/06/21,7h05,1,1,1,1,100,Pipit des arbres,1,,,,,
+Vallouise,Val haute,90,5,J.P.Telmon,,16/06/21,7h05,1,1,1,1,100,Mésange boréale,1,1,,,,
+Vallouise,Val haute,90,5,J.P.Telmon,,16/06/21,7h05,1,1,1,1,100,Mésange noire,,2,,,,
+Vallouise,Val haute,90,6,J.P.Telmon,,16/06/21,7h55,1,1,1,1,100,Chocard à bec jaune,,,1,,,
+Vallouise,Val haute,90,6,J.P.Telmon,,16/06/21,7h55,1,1,1,1,100,Grand corbeau,,,2,,,
+Vallouise,Val haute,90,6,J.P.Telmon,,16/06/21,7h55,1,1,1,1,100,Merle à plastron,,,1,,,
+Vallouise,Val haute,90,6,J.P.Telmon,,16/06/21,7h55,1,1,1,1,100,Pinson des arbres,2,1,,,,
+Vallouise,Val haute,90,7,J.P.Telmon,,16/06/21,8h32,1,1,1,1,100,Pipit spioncelle,,1,1,,,
+Vallouise,Val haute,90,7,J.P.Telmon,,16/06/21,8h32,1,1,1,1,100,Rougequeue noir,3,2,,,,
+Vallouise,Val haute,90,7,J.P.Telmon,,16/06/21,8h32,1,1,1,1,100,Tichodrome échelette,,,1,,,
+Vallouise,Val haute,90,8,J.P.Telmon,,16/06/21,10h45,1,1,1,1,100,Chocard à bec jaune,1,,,,,
+Vallouise,Val haute,90,8,J.P.Telmon,,16/06/21,10h45,1,1,1,1,100,Merle à plastron,,,1,,,
+Vallouise,Val haute,90,8,J.P.Telmon,,16/06/21,10h45,1,1,1,1,100,Pipit spioncelle,1,2,,,,
+Vallouise,Val haute,90,8,J.P.Telmon,,16/06/21,10h45,1,1,1,1,100,Traquet motteux,,2,,,,
+Vallouise,Val haute,90,9,J.P.Telmon,,16/06/21,10h25,1,1,1,1,100,Pipit spioncelle,2,2,,,,
+Vallouise,Val haute,90,9,J.P.Telmon,,16/06/21,10h25,1,1,1,1,100,Rougequeue noir,1,,,,,
+Vallouise,Val haute,90,9,J.P.Telmon,,16/06/21,10h25,1,1,1,1,100,Traquet motteux,1,1,,,,
+Vallouise,Val haute,90,10,J.P.Telmon,,16/06/21,11h10,1,1,1,1,100,Chocard à bec jaune,,,1,,,
+Vallouise,Val haute,90,10,J.P.Telmon,,16/06/21,11h10,1,1,1,1,100,Merle à plastron,,1,,,,
+Vallouise,Val haute,90,10,J.P.Telmon,,16/06/21,11h10,1,1,1,1,100,Pinson des arbres,1,,,,,
+Vallouise,Val haute,90,10,J.P.Telmon,,16/06/21,11h10,1,1,1,1,100,Pipit des arbres,,,1,,,
+Vallouise,Val haute,90,10,J.P.Telmon,,16/06/21,11h10,1,1,1,1,100,Pipit spioncelle,1,1,,,,
+Vallouise,Val haute,90,10,J.P.Telmon,,16/06/21,11h10,1,1,1,1,100,Traquet motteux,2,1,,,,
+Vallouise,Val haute,90,11,J.P.Telmon,,16/06/21,10h00,1,1,1,1,100,Chocard à bec jaune,,,2,,,
+Vallouise,Val haute,90,11,J.P.Telmon,,16/06/21,10h00,1,1,1,1,100,Crave à bec rouge,,,3,,,
+Vallouise,Val haute,90,11,J.P.Telmon,,16/06/21,10h00,1,1,1,1,100,Pipit spioncelle,4,4,,,,
+Vallouise,Val haute,90,11,J.P.Telmon,,16/06/21,10h00,1,1,1,1,100,Rougequeue noir,1,,,,,
+Vallouise,Val haute,90,11,J.P.Telmon,,16/06/21,10h00,1,1,1,1,100,Traquet motteux,1,,,,,

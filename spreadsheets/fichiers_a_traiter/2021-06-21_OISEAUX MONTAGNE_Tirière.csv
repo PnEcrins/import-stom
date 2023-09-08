@@ -1,0 +1,42 @@
+SECTEUR,NOM SITE,N°SECTEUR COMPTAGE,NPOINT,OBSERVATEUR 1,OBSERVATEUR 2,DATE,HEURE DEBUT,COUV NUAGE,PLUIE,VENT,VISI,DENEIGEMT,ESPECE,NB05,NB510,NB100,NB1015,MAX10,Liste espèces
+Valgaudemar,Tirière,,1,Vincent Dominique,Huchon Florence,21/06/2021,6h00,1,1,1,1,100,Accenteur mouchet,1,2,,,,Accenteur alpin
+Valgaudemar,Tirière,,1,Vincent Dominique,Huchon Florence,21/06/2021,6h00,1,1,1,1,100,pipit des arbres,1,1,,,,Accenteur mouchet
+Valgaudemar,Tirière,,1,Vincent Dominique,Huchon Florence,21/06/2021,6h00,1,1,1,1,100,troglodyte mignon,1,1,,,,Alouette des champs
+Valgaudemar,Tirière,,1,Vincent Dominique,Huchon Florence,21/06/2021,6h00,1,1,1,1,100,pouillot de Bonelli,1,1,,,,Bec croisé des sapins
+Valgaudemar,Tirière,,1,Vincent Dominique,Huchon Florence,21/06/2021,6h00,1,1,1,1,100,pouillot véloce,1,1,,,,Bergeronnette des ruisseaux
+Valgaudemar,Tirière,,2,Vincent Dominique,Huchon Florence,21/06/2021,6h30,1,1,1,1,100,Accenteur mouchet,,1,,,,Bruant jaune
+Valgaudemar,Tirière,,2,Vincent Dominique,Huchon Florence,21/06/2021,6h30,1,1,1,1,100,pouillot véloce,,,1,,,Caille des blés
+Valgaudemar,Tirière,,2,Vincent Dominique,Huchon Florence,21/06/2021,6h30,1,1,1,1,100,Pipit spioncelle,1,2,,,,Chocard a bec jaune
+Valgaudemar,Tirière,,2,Vincent Dominique,Huchon Florence,21/06/2021,6h30,1,1,1,1,100,Merle à plastron,,,2,,,Corneille noire
+Valgaudemar,Tirière,,2,Vincent Dominique,Huchon Florence,21/06/2021,6h30,1,1,1,1,100,pinson des arbres,,,1,,,Coucou gris
+Valgaudemar,Tirière,,2,Vincent Dominique,Huchon Florence,21/06/2021,6h30,1,1,1,1,100,pipit des arbres,,,1,,,Crave a bec rouge
+Valgaudemar,Tirière,,2,Vincent Dominique,Huchon Florence,21/06/2021,6h30,1,1,1,1,100,troglodyte mignon,,,1,,,Faucon crécerelle
+Valgaudemar,Tirière,,2,Vincent Dominique,Huchon Florence,21/06/2021,6h30,1,1,1,1,100,Pouillot de Bonelli,,,1,,,Fauvette à tête noire
+Valgaudemar,Tirière,,3,Vincent Dominique,Huchon Florence,21/06/2021,7h05,1,1,2,1,100,perdrix bartavelle,,1,,,,Fauvette des jardins
+Valgaudemar,Tirière,,3,Vincent Dominique,Huchon Florence,21/06/2021,7h05,1,1,2,1,100,Pipit spioncelle,2,2,,,,Grand corbeau
+Valgaudemar,Tirière,,3,Vincent Dominique,Huchon Florence,21/06/2021,7h05,1,1,2,1,100,Rouge-queue noir,1,1,,,,Grive draine
+Valgaudemar,Tirière,,3,Vincent Dominique,Huchon Florence,21/06/2021,7h05,1,1,2,1,100,Traquet motteux,,1,,,,Grive musicienne
+Valgaudemar,Tirière,,4,Vincent Dominique,Huchon Florence,21/06/2021,7h37,1,1,2,1,100,Accenteur mouchet,1,,,,,Hirondelle de fenêtre
+Valgaudemar,Tirière,,4,Vincent Dominique,Huchon Florence,21/06/2021,7h37,1,1,2,1,100,Pipit spioncelle,2,2,,,,Linotte melodieuse
+Valgaudemar,Tirière,,4,Vincent Dominique,Huchon Florence,21/06/2021,7h37,1,1,2,1,100,Tarier des près,1,,,,,Merle a plastron
+Valgaudemar,Tirière,,5,Vincent Dominique,Huchon Florence,21/06/2021,8h10,1,1,1,1,100,Alouette des champs,1,,,,,Mésange noire
+Valgaudemar,Tirière,,5,Vincent Dominique,Huchon Florence,21/06/2021,8h10,1,1,1,1,100,Pipit spioncelle,1,1,,,,Monticole de roche
+Valgaudemar,Tirière,,5,Vincent Dominique,Huchon Florence,21/06/2021,8h10,1,1,1,1,100,Traquet motteux,1,2,,,,Niverolle alpine
+Valgaudemar,Tirière,,6,Vincent Dominique,Huchon Florence,21/06/2021,8h40,1,1,1,1,100,Monticole de roche,,,1,,,Perdrix grise
+Valgaudemar,Tirière,,6,Vincent Dominique,Huchon Florence,21/06/2021,8h40,1,1,1,1,100,Pipit spioncelle,1,1,,,,Pie-grieche ecorcheur
+Valgaudemar,Tirière,,6,Vincent Dominique,Huchon Florence,21/06/2021,8h40,1,1,1,1,100,Rouge-queue noir,,,1,,,Pinson des arbres
+Valgaudemar,Tirière,,7,Vincent Dominique,Huchon Florence,21/06/2021,9h15,1,1,2,1,100,Rouge-queue noir,1,1,,,,Pipit des arbres
+Valgaudemar,Tirière,,7,Vincent Dominique,Huchon Florence,21/06/2021,9h15,1,1,2,1,100,Monticole de roche,1,1,,,,Pouillot véloce
+Valgaudemar,Tirière,,7,Vincent Dominique,Huchon Florence,21/06/2021,9h15,1,1,2,1,100,Pipit spioncelle,1,1,,,,Rouge-gorge familier
+Valgaudemar,Tirière,,7,Vincent Dominique,Huchon Florence,21/06/2021,9h15,1,1,2,1,100,Traquet motteux,1,1,,,,Rouge-queue noir
+Valgaudemar,Tirière,,7,Vincent Dominique,Huchon Florence,21/06/2021,9h15,1,1,2,1,100,Linotte mélodieuse,2,,,,,Tarier patre
+Valgaudemar,Tirière,,8,Vincent Dominique,Huchon Florence,21/06/2021,9h50,1,1,1,1,100,Pipit spioncelle,1,1,,,,Tarier des pres
+Valgaudemar,Tirière,,8,Vincent Dominique,Huchon Florence,21/06/2021,9h50,1,1,1,1,100,Traquet motteux,1,2,,,,Traquet motteux
+Valgaudemar,Tirière,,8,Vincent Dominique,Huchon Florence,21/06/2021,9h50,1,1,1,1,100,Linotte mélodieuse,,,2,,,Troglodyte mignon
+Valgaudemar,Tirière,,9,Vincent Dominique,Huchon Florence,21/06/2021,10h15,1,1,2,1,100,Pipit spioncelle,1,1,1,,,Vautour fauve
+Valgaudemar,Tirière,,9,Vincent Dominique,Huchon Florence,21/06/2021,10h15,1,1,2,1,100,Traquet motteux,2,1,,,,
+Valgaudemar,Tirière,,9,Vincent Dominique,Huchon Florence,21/06/2021,10h15,1,1,2,1,100,Chocard à bec jaune,,,1,,,
+Valgaudemar,Tirière,,9,Vincent Dominique,Huchon Florence,21/06/2021,10h15,1,1,2,1,100,Rouge-queue noir,,1,,,,
+Valgaudemar,Tirière,,10,Vincent Dominique,Huchon Florence,21/06/2021,10h45,1,1,2,1,100,chocard à bec jaune,,,3,,,
+Valgaudemar,Tirière,,10,Vincent Dominique,Huchon Florence,21/06/2021,10h45,1,1,2,1,100,Pipit spioncelle,2,2,,,,
+Valgaudemar,Tirière,,10,Vincent Dominique,Huchon Florence,21/06/2021,10h45,1,1,2,1,100,Monticole de roche,1,,,,,
