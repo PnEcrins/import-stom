@@ -1,7 +1,6 @@
 import click
 import json
 
-from pyexcel_ods import get_data
 from gn_module_monitoring.monitoring.models import (
     TMonitoringVisits,
     TMonitoringObservations,
@@ -18,14 +17,13 @@ from unidecode import unidecode
 from geonature.app import create_app
 from geonature.core.gn_monitoring.models import TBaseSites
 from pypnusershub.db.models import User
-from apptax.taxonomie.models import Taxref, BibNoms, CorNomListe, BibListes
+from apptax.taxonomie.models import Taxref
 from geonature.core.gn_meta.models import TDatasets
 from geonature.core.gn_commons.models import TModules
 from gn_module_monitoring.monitoring.models import (
     TMonitoringVisits,
     TMonitoringObservations,
 )
-from pypnnomenclature.models import TNomenclatures, BibNomenclaturesTypes
 
 
 def get_data(file_name):
@@ -499,10 +497,13 @@ def get_ods_file_data(file):
     return data
 
 
-def import_data(file_name, error_file_name):
+@click.command()
+@click.option("--file-path", required=True)
+@click.option("--error-file-path", default="error_output.csv")
+def import_data(file_path, error_file_path):
     app = create_app()
     with app.app_context():
-        data = get_data(file_name)
+        data = get_data(file_path)
         added_obs = 0
         added_vis = 0
         n = 2
@@ -561,7 +562,7 @@ def import_data(file_name, error_file_name):
                         db.session.add(obs)
             n += 1
         keys = data[0].keys()
-        write_errors_file(error_file_name, errors, keys)
+        write_errors_file(error_file_path, errors, keys)
         print(added_vis, " visites ajoutées\n", added_obs, " observations ajoutées")
         db.session.commit()
 
@@ -708,7 +709,5 @@ def parse_visit_data(file_name):
         db.session.commit()
 
 
-import_data(
-    "spreadsheets/STOM/DONNEES/2021/Vallouise_Val haute et Fournel bas/OISEAUX MONTAGNE_2021 VLL.csv",
-    "lignes_erronees.csv",
-)
+if __name__ == "__main__":
+    import_data()
