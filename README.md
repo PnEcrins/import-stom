@@ -1,5 +1,10 @@
 # Intégration des données STOM
 
+## Mode d'emploi
+
+Ce code s'utilise dans le venv de GeoNature.
+Attention : Bien veiller a lancer le script SQL afin de ne pas avoir des doublons sur les points d'écoute du groupe Distroit
+
 ## Correspondance des colonnes
 
 - ZONE : La zone géographique en France (ici le PNE)
@@ -29,9 +34,10 @@
 
 Nous avons essayé de fournir certaines données supplémentaires hors protocole dans les visites, mais sans réussite.
 
-Les colonnes ZONE, ID ZONE, X, Y et ALT sont déterminés dans la base de données, aucun traitement n'est fait avec.
-
 ## Traitements des colonnes
+
+Les colonnes ZONE, ID ZONE, X, Y et ALT sont déterminés dans la base de données, aucun traitement n'est fait avec.
+Les colonnes IDSITE et IDUNIQUE ne sont aps fournis pour chaque ligne, on ne les utilise pas.
 
 ### Traitement des sites
 
@@ -44,6 +50,7 @@ Pour les observateurs, un maximun de travail à été fait afin qu'ils puissent 
 ### Traitement des noms d'espèce
 
 Le taxon de l'observation est déterminé à être celle ou le cd_nom dans la base de données est égal au cd_ref pour ce nom de taxon. Le code gère tous les problèmes de casse et d'accents, et complète les noms dans les cas ou le nom fourni dans le fichier est une partie d'un nom dans la base de données.
+
 
 
 
